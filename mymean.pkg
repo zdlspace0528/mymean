@@ -1,6 +1,9 @@
 v 1.0 
-d mymean: generate and display the average value of variables.
+* v is followed by the version number 
+d mymean: generate and display the average value of variables. 
 d Allows for “by” and returns a matrix with all results. 
 d Program by Alexander C. Lembcke 
- f mymean.ado
- f mymean.sthlp 
+* d is followed by a description of the program 
+f mymean.ado 
+f mymean.sthlp 
+* and lastly f denotes filenames that belong to your program
